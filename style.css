@@ -1,0 +1,20 @@
+img{
+    border-radius: 50%;
+    text-align:center;
+    height: 200px;
+    width: 200px;
+}
+div{
+    text-align: center;
+}
+h2{
+    background-color: purple;
+    color: aliceblue;
+  
+}
+span{
+    color: blue;
+}
+h1{
+    text-align: center;
+}
